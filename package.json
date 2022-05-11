@@ -35,7 +35,7 @@
     "util": "^0.12.4",
     "web3": "^1.6.1",
     "web3-utils": "^1.6.1",
-    "xstate": "^4.27.0"
+    "xstate": "^4.31.0"
   },
   "devDependencies": {
     "@rollup/plugin-inject": "^4.0.4",
