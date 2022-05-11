@@ -33,7 +33,7 @@
     "stream-browserify": "^3.0.0",
     "tinycon": "^0.6.8",
     "util": "^0.12.4",
-    "web3": "^1.6.1",
+    "web3": "^1.7.3",
     "web3-utils": "^1.6.1",
     "xstate": "^4.27.0"
   },
